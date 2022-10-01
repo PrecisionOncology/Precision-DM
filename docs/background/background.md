@@ -4,7 +4,7 @@ title: Background
 nav_order: 2
 has_children: false
 has_toc: false
-permalink: docs/utilities
+permalink: docs/background
 ---
 
 # Bakground

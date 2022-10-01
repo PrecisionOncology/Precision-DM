@@ -20,4 +20,4 @@ The Sidney Kimmel Comprehensive Cancer Center at the Johns Hopkins University ha
 > 
 ![](assets/images/DM.jpg)
 
-[View Precision-DM on GitHub](https://PrecisionOncology.github.io/Precision-DM){: .btn .fs-5 .mb-4 .mb-md-0 }{:target="_blank"}
+[View Precision-DM on GitHub](https://github.com/PrecisionOncology/Precision-DM-repo/){: .btn .fs-5 .mb-4 .mb-md-0 }{:target="_blank"}

@@ -9,8 +9,8 @@ Precision-DM is an open-source product owned by [The Johns Hopkins University Sc
 
 ## License
 
-Precision-DM is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt){:target="_blank"}.
+Precision-DM is distributed by an [MIT license](https://github.com/PrecisionOncology/Precision-DM-repo/tree/main/LICENSE.txt){:target="_blank"}.
 
 ## Contributing
 
-If you wish to contribute to our Precision-DM efforts, please contact our team via email at *tbotsis1 @ jhmi dot edu* or comment on our [GitHub repo](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt){:target="_blank"}.
+If you wish to contribute to our Precision-DM efforts, please contact our team via email at *MolecularTumorBoard @ jhmi dot edu* or comment on our [GitHub repo](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt){:target="_blank"}.
