@@ -4,6 +4,7 @@ title: Precision-DM Versions
 nav_order: 3
 has_children: true
 has_toc: false
+permalink: docs/precision_dm_versions
 ---
 
 # Precision Oncology Core Data Model Versions
