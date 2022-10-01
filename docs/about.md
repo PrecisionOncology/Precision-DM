@@ -13,4 +13,4 @@ Precision-DM is distributed by an [MIT license](https://github.com/PrecisionOnco
 
 ## Contributing
 
-If you wish to contribute to our Precision-DM efforts, please contact our team via email at *MolecularTumorBoard @ jhmi dot edu* or comment on our [GitHub repo](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt){:target="_blank"}.
+If you wish to contribute to our Precision-DM efforts, please contact our team via email at *MolecularTumorBoard @ jhmi dot edu* or comment on our [GitHub repo](https://github.com/PrecisionOncology/Precision-DM-repo){:target="_blank"}.
