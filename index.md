@@ -16,7 +16,7 @@ The Sidney Kimmel Comprehensive Cancer Center at the Johns Hopkins University ha
 > **Latest version `1.1.0` is available!**
 
 > The structure of Precision-DM, including the profiles, sub-profiles, and data elements, is illustrated in the following diagram.
-> See [Precision-DM Versions](https://precisiononcology.github.io/Precision-DM/docs/precision_dm_versions/) for a complete description of the latest version.
+> See [Precision-DM Versions]({% link docs/precision_dm_versions/versions.md %}) for a complete description of the latest version.
 > 
 ![](assets/images/DM.jpg)
 
