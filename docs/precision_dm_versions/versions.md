@@ -14,4 +14,4 @@ This page lists all Precision-DM versions with their release date and the link t
 
 ## Precision-DM versions
 
-[v.1.1.0]({% link docs/precision_dm_versions/v110/v110.md %}) released on September 27, 2022 [*[On GitHub](https://github.com/PrecisionOncology/Precision-DM-repo/){:target="_blank"}*]
+[v.1.1.0]({{ site.baseurl }}{% link docs/precision_dm_versions/v110/v110.md %}) released on September 27, 2022 [*[On GitHub](https://github.com/PrecisionOncology/Precision-DM-repo/){:target="_blank"}*]
