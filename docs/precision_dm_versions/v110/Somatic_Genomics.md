@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genomics
+title: Somatic Genomics
 parent: Precision-DM 1.1.0
 grand_parent: Precision-DM Versions
 nav_order: 7
